@@ -1,0 +1,58 @@
+# ── Next.js ──────────────────────────────────────────────
+.next/
+out/
+build/
+dist/
+dashboard/node_modules/
+dashboard/.env*.local
+
+# ── Node ─────────────────────────────────────────────────
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+*.tsbuildinfo
+
+# ── Python ───────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+dist/
+.eggs/
+.venv/
+venv/
+env/
+.Python
+pip-log.txt
+
+# ── Environment ──────────────────────────────────────────
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# ── Editor & OS ──────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ── Database ─────────────────────────────────────────────
+*.sqlite
+*.db
+
+# ── Misc ─────────────────────────────────────────────────
+*.log
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.env
+.claude/
+nohup.out

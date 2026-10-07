@@ -1,0 +1,130 @@
+[
+  {
+    "id": "b1000000-0000-0000-0000-000000000001",
+    "name": "Video Forensics",
+    "module": "kaaval",
+    "enabled": true,
+    "version": "v2.1",
+    "updated_at": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "id": "b1000000-0000-0000-0000-000000000002",
+    "name": "Social Listening",
+    "module": "kaaval",
+    "enabled": true,
+    "version": "v1.3",
+    "updated_at": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "id": "b1000000-0000-0000-0000-000000000003",
+    "name": "Tamil NLP",
+    "module": "kaaval",
+    "enabled": true,
+    "version": "v3.0",
+    "updated_at": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "id": "b1000000-0000-0000-0000-000000000004",
+    "name": "Fact-Check Cross-Ref",
+    "module": "kaaval",
+    "enabled": true,
+    "version": "v1.1",
+    "updated_at": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "id": "b1000000-0000-0000-0000-000000000005",
+    "name": "Editorial Brief",
+    "module": "kaaval",
+    "enabled": true,
+    "version": "v1.0",
+    "updated_at": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "id": "b1000000-0000-0000-0000-000000000006",
+    "name": "Threads Listener",
+    "module": "kaaval",
+    "enabled": false,
+    "version": "v0.3",
+    "updated_at": "2026-07-04T07:36:26.095530+00:00"
+  },
+  {
+    "id": "b2000000-0000-0000-0000-000000000001",
+    "name": "CERT-In Drafter",
+    "module": "kavasam",
+    "enabled": true,
+    "version": "v1.4",
+    "updated_at": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "id": "b2000000-0000-0000-0000-000000000002",
+    "name": "DPDP Audit Logger",
+    "module": "kavasam",
+    "enabled": true,
+    "version": "v2.0",
+    "updated_at": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "id": "b2000000-0000-0000-0000-000000000003",
+    "name": "Channel Health Monitor",
+    "module": "kavasam",
+    "enabled": true,
+    "version": "v1.2",
+    "updated_at": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "id": "b2000000-0000-0000-0000-000000000004",
+    "name": "Alert Router",
+    "module": "kavasam",
+    "enabled": true,
+    "version": "v1.0",
+    "updated_at": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "id": "b3000000-0000-0000-0000-000000000003",
+    "name": "AltNews Scraper",
+    "module": "veriff",
+    "enabled": true,
+    "version": "v1.1",
+    "updated_at": "2026-07-13T06:41:43.232023+00:00"
+  },
+  {
+    "id": "b3000000-0000-0000-0000-000000000004",
+    "name": "Vishvas News",
+    "module": "veriff",
+    "enabled": true,
+    "version": "v1.0",
+    "updated_at": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "id": "b3000000-0000-0000-0000-000000000005",
+    "name": "Fact Crescendo Tamil",
+    "module": "veriff",
+    "enabled": true,
+    "version": "v0.9",
+    "updated_at": "2026-07-13T06:43:44.964089+00:00"
+  },
+  {
+    "id": "b3000000-0000-0000-0000-000000000006",
+    "name": "Newschecker Tamil",
+    "module": "veriff",
+    "enabled": true,
+    "version": "v1.0",
+    "updated_at": "2026-01-01T00:00:00+00:00"
+  },
+  {
+    "id": "b3000000-0000-0000-0000-000000000007",
+    "name": "IndiaToday Fact Check",
+    "module": "veriff",
+    "enabled": true,
+    "version": "v1.0",
+    "updated_at": "2026-07-13T00:00:00+00:00"
+  },
+  {
+    "id": "b3000000-0000-0000-0000-000000000008",
+    "name": "Quint WebQoof",
+    "module": "veriff",
+    "enabled": true,
+    "version": "v1.0",
+    "updated_at": "2026-07-13T00:00:00+00:00"
+  }
+]

@@ -1,0 +1,10 @@
+crewai==0.30.11
+crewai-tools==0.4.6
+langchain-community==0.2.1
+
+# Kavasam YouTube channel health (agents/kavasam/youtube_client.py)
+google-api-python-client>=2.0
+
+# Archive fingerprinting engine
+imagehash>=4.3
+Pillow>=10.0
